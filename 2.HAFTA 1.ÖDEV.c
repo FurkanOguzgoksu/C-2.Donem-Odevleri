@@ -1,3 +1,6 @@
+/* 1. Kendisine parametre olarak gelen tamsayıyı bitsel operatörler kullanarak yine kendisine parametre olarak gelen sayı kadar left rotated 
+shift yapan fonksiyon kodunu yazınız. Yazılan fonksiyonu program içeresinde kullanınız.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
