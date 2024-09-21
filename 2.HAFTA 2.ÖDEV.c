@@ -1,3 +1,6 @@
+/*2. 0 ile 100 arasında rasgele oluşturduğunuz 100 sayıdan 5. bitleri 0 olan sayıların 4. bitini 1 yaparak sayilar0.txt 
+dosyasına 5. bitleri 1 olan sayıların 3. bitini 0 yaparak sayilar1.txt dosyasına yazan program kodunu yazınız. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
