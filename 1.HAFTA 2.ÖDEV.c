@@ -1,3 +1,5 @@
+//2- Oluşturduğunuz sayilar.txt dosyasındaki sayıları okuyunuz. Okuduğunuz sayılardan asal sayı olanları sayilar2.txt dosyasına kaydediniz.
+
 #include <stdio.h>
 #include <stdlib.h>
 
