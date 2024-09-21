@@ -1,3 +1,5 @@
+// 2. Girilen sayıya kadar olan pozitif tamsayıların toplamını bulan özyinelemeli fonksiyonu yazınız
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
