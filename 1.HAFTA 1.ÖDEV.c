@@ -1,3 +1,5 @@
+// 1- 0 ile 1000 arasında rasgele ürettiğinin 100 adet tam sayıyı sayilar.txt dosyasına yazınız.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
