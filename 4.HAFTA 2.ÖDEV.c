@@ -1,5 +1,5 @@
-/* Kendisine parametre olarak gelen metni yine kendisine parametre olark gelen değer kadar 
-karakter temelli right rotated shift yapan fonksiyon kodunu pointer aritmetiği kullanarak yazınız */
+/* Kendisine parametre olarak gelen metni yine kendisine parametre olark gelen deÄŸer kadar 
+karakter temelli right rotated shift yapan fonksiyon kodunu pointer aritmetiÄŸi kullanarak yazÄ±nÄ±z */
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -10,7 +10,7 @@ void right_rotated_shift(char metin[],int adet)
 	char *g = gecici;
 	int i,j,sayac=0;
 	for(sayac=0 ; *(p+sayac)!='\0' ; sayac++);
-	for(i=0 ; i<adet ;i++)		// Kaydirilma miktari kadar döngü devam eder.
+	for(i=0 ; i<adet ;i++)		// Kaydirilma miktari kadar dÃ¶ngÃ¼ devam eder.
 	{
 		*(g+0) = *(p+sayac-1);	// Metinin son indexini gecicide tutar.
 		
