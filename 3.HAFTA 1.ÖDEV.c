@@ -1,3 +1,5 @@
+// 1. Kendisine parametre olarak gönderilen iki tam sayının OBEB (Ortak Bölenlerin En Büyüğü) ini bulan özyinelemeli fonksiyonları yazınız.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
