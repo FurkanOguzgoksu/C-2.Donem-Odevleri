@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 struct Node {
     int sayi;
     struct Node* sonraki;
@@ -66,7 +67,7 @@ int main() {
             free(arama);
         }
     }else {
-        printf("Aranan sayi bulunamadý.");
+        printf("Aranan sayi bulunamadÄ±.");
     }
 	gecici = ilk;
     printf("\nYeni liste:\n");
