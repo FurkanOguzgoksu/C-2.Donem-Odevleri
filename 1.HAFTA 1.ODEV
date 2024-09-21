@@ -7,7 +7,7 @@ int main() {
 	dosya = fopen("Sayilar.txt" , "w");
 	
 	if(dosya == NULL) {
-		printf("Dosya acma hatasý!");
+		printf("Dosya acma hatasÃ½!");
 		return 1;
 	}
 	
