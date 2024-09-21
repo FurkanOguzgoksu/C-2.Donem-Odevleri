@@ -7,7 +7,7 @@ int LRS (int sayi , int kaydir)
 	unsigned short sonuc,sonuc2; 	
 	
 	sonuc = sayi << kaydir ;  
-	sonuc2 = sayi >> (16-kaydir);	// Veri kaybını önlemek için yapılmıştır.
+	sonuc2 = sayi >> (16-kaydir);	// Veri kaybÄ±nÄ± Ã¶nlemek iÃ§in yapÄ±lmÄ±ÅŸtÄ±r.
 	
 	return (sonuc|sonuc2); 
 }
