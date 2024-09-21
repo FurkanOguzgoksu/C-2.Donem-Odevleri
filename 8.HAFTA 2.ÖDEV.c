@@ -72,7 +72,7 @@ int main(){
         gecici = gecici->sonraki;
     }
     
-    // Belleği serbest bırakma
+    // BelleÄŸi serbest bÄ±rakma
     gecici = ilk;
     while (gecici != NULL) {
         struct Node *tmp = gecici;
